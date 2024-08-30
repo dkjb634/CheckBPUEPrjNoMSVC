@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mile6/RiderProjects/CheckBPUEPrjNoMSVC/Content/Characters/bp_MyActor.uasset",
+				"C:/Users/mile6/RiderProjects/CheckBPUEPrjNoMSVC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/VB/4KK374EN6NPKMG89X42VF3.uasset",
 				"C:/Area/UEPrjs/u544_tps_b/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Area/UEPrjs/u544_tps_b/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
