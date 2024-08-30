@@ -1,0 +1,15 @@
+Intermediate/
+DerivedDataCache/
+Saved/Logs/
+.vs/
+.idea/
+*.sln
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+
+# Ignore backup files
+*.log
+*.tmp
